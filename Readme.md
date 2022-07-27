@@ -1,7 +1,7 @@
 ![logo](./images/logo.png)
 
 # Leon - Agency Template
-This repository is a UI implementation of a Leon template inspired by [Graphberry](https://www.graphberry.com/) 
+This repository is a UI implementation of a Leon template with HTML, CSS, and JavaScript inspired by [Graphberry](https://www.graphberry.com/) 
 
 Leon is a free PSD template made by Graphberry. It comes in a modern, flat design with vibrant colors. This landing page is great for representing your portfolio or other types of websites.
 
